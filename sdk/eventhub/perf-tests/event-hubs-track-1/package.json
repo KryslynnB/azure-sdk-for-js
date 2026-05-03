@@ -9,7 +9,7 @@
   "dependencies": {
     "@azure/core-amqp": "^3.0.0",
     "@azure/event-hubs": "^2.1.4",
-    "uuid": "^8.3.0",
+    "uuid": "^14.0.0",
     "@azure-tools/test-perf": "file:../../../test-utils/perf/azure-test-utils-perf-1.0.0.tgz",
     "dotenv": "^16.0.0",
     "moment": "^2.24.0"

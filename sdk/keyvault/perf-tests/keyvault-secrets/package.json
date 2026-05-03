@@ -11,7 +11,7 @@
     "@azure-tools/test-perf": "^1.0.0",
     "dotenv": "^16.0.0",
     "@azure/identity": "^4.0.1",
-    "uuid": "^8.3.0",
+    "uuid": "^14.0.0",
     "@azure/keyvault-secrets": "^4.4.0-beta.2"
   },
   "devDependencies": {

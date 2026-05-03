@@ -58,7 +58,7 @@
     "ts-node-dev": "^1.1.8",
     "typescript": "~5.5.3",
     "uglify-js": "^3.6.0",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "homepage": "https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/batch/batch",
   "repository": {
